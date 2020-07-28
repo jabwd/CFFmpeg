@@ -1,0 +1,5 @@
+module avdevice [system] {
+	header "shim.h"
+	link "avdevice"
+	export *
+}

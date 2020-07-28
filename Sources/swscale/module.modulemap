@@ -1,0 +1,5 @@
+module swscale [system] {
+	header "shim.h"
+	link "swscale"
+	export *
+}

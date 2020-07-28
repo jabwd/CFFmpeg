@@ -1,0 +1,5 @@
+module swresample [system] {
+	header "shim.h"
+	link "swresample"
+	export *
+}

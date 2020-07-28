@@ -1,0 +1,5 @@
+module avutil [system] {
+	header "shim.h"
+	link "avutil"
+	export *
+}

@@ -1,0 +1,5 @@
+module avfilter [system] {
+	header "shim.h"
+	link "avfilter"
+	export *
+}

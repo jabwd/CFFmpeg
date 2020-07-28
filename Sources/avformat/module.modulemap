@@ -1,0 +1,5 @@
+module avformat [system] {
+	header "shim.h"
+	link "avformat"
+	export *
+}
