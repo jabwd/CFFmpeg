@@ -1,6 +1,6 @@
 #ifndef SWRESAMPLE_H
 #define SWRESAMPLE_H
 
-#include <swresample.h>
+#include <libswresample/swresample.h>
 
 #endif

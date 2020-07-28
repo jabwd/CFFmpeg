@@ -1,6 +1,6 @@
 #ifndef AVFORMAT_H
 #define AVFORMAT_H
 
-#include <avformat.h>
+#include <libavformat/avformat.h>
 
 #endif

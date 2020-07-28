@@ -1,6 +1,6 @@
 #ifndef AVUTIL_H
 #define AVUTIL_H
 
-#include <avutil.h>
+#include <libavutil/avutil.h>
 
 #endif

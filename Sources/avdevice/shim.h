@@ -1,6 +1,6 @@
 #ifndef AVDEVICE_H
 #define AVDEVICE_H
 
-#include <avdevice.h>
+#include <libavdevice/avdevice.h>
 
 #endif

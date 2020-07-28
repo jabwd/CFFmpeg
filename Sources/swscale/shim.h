@@ -1,6 +1,6 @@
 #ifndef SWSCALE_H
 #define SWSCALE_H
 
-#include <swscale.h>
+#include <libswscale/swscale.h>
 
 #endif
