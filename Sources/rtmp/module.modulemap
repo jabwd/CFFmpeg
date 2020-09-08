@@ -1,0 +1,5 @@
+module rtmp [system] {
+    header "shim.h"
+    link "rtmp"
+    export *
+}

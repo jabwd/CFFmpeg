@@ -26,6 +26,9 @@ let package = Package(
 		.library(name: "swscale", targets: [
 			"swscale",
 		]),
+		.library(name: "rtmp", targets: [
+			"rtmp",
+		]),
     ],
     dependencies: [
     ],
@@ -38,5 +41,6 @@ let package = Package(
 		.systemLibrary(name: "avutil"),
 		.systemLibrary(name: "swresample"),
 		.systemLibrary(name: "swscale"),
+		.systemLibrary(name: "rtmp"),
     ]
 )
