@@ -8,7 +8,6 @@
 #include <libavutil/hwcontext.h>
 #include <libavutil/pixfmt.h>
 #include <libavutil/rational.h>
-#include <libavutil/thread.h>
 #include <libavutil/threadmessage.h>
 
 #endif
