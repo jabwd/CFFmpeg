@@ -9,5 +9,6 @@
 #include <libavutil/pixfmt.h>
 #include <libavutil/rational.h>
 #include <libavutil/threadmessage.h>
+#include <libavutil/imgutils.h>
 
 #endif
