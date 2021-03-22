@@ -11,5 +11,6 @@
 #include <libavutil/threadmessage.h>
 #include <libavutil/imgutils.h>
 #include <libavutil/opt.h>
+#include <libavutil/avconfig.h>
 
 #endif
