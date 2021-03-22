@@ -10,5 +10,6 @@
 #include <libavutil/rational.h>
 #include <libavutil/threadmessage.h>
 #include <libavutil/imgutils.h>
+#include <libavutil/opt.h>
 
 #endif
